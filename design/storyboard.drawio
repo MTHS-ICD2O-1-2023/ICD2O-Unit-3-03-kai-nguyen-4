@@ -1,11 +1,32 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="399" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1936" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="40" y="40" width="760" height="480" as="geometry"/>
+                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-20" y="60" width="760" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Calculate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="7">
+                    <mxGeometry x="60" y="220" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="The volume is: 50 mm&lt;sup&gt;2&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="7">
+                    <mxGeometry x="47.5" y="280" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="62.5" y="235" width="85" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Formula: 4/3 * pi * r^2&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="47.5" y="175" width="220" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="r:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="27.5" y="225" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="147.5" y="225" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;h1&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Volume of a sphere with Js&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry y="85" width="410" height="90" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
