@@ -7,6 +7,6 @@
 
 function findVolumeClicked() {
   const radiusInput = parseFloat(document.getElementById("radius-entered").value)
-  const volume = 4/3 * Math.PI * radiusInput ** 2
+  const volume = 4/3 * Math.PI * radiusInput ** 3
   document.getElementById("answer").innerHTML = "The volume is: " + volume.toFixed(2) + " mm<sup>3"
 }
